@@ -1,0 +1,33 @@
+1.技术学习：
+
+C++ std
+Boost 
+Bootstrap
+HTML5
+JavaScript/css
+Python
+Git,SVN
+wxWidgets
+MySql
+MongoDB
+linux C++ development environment
+windows C++ development
+openSSL
+openCV
+sqlite3
+libcurl
+tinyXML
+写一个属于自己的博客。
+
+2.读书（看书，写读书笔记，思考）
+
+经济：
+心理：
+历史：
+哲学：
+
+3.锻炼
+
+跑步
+摄影（出门走走看看）
+
