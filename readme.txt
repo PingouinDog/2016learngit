@@ -12,3 +12,4 @@ feature1 new test1.
 create a new dev branch.
 create a new dev2 branch.
 Create a modified in dev branch.
+now it is on branch dev.
